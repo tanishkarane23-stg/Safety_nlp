@@ -1,0 +1,15 @@
+[theme]
+# High-visibility safety yellow for primary actions (buttons, sliders)
+primaryColor = "#F4D03F" 
+
+# Deep command-center background
+backgroundColor = "#0E1117" 
+
+# Navy-tinted dark gray for secondary panels, tabs, and sidebars
+secondaryBackgroundColor = "#1C2833" 
+
+# Clean white/light-gray for readable text
+textColor = "#FAFAFA" 
+
+# Modern sans-serif font
+font = "agency fb"
